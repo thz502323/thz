@@ -1,0 +1,5 @@
+<?php
+//定义应用级别函数，不需要引用即可使用
+function gbk2utf8(){
+    echo 'gbk2utf8';
+}

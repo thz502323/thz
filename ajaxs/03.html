@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Document</title>
+    <script type="text/javascript">
+         function f1(){
+            var xhr =new XMLHttpRequest();
+            xhr.onreadystatechange = function(){
+               // console.log(xhr.readyState);
+                 if (xhr.readyState==4) {
+
+                    document.getElementById('result').innerHTML = xhr.responseText;
+                   // console.log(xhr.responseText);
+            }
+            };
+            xhr.open('get','./03.php');
+            xhr.send(null);
+
+         }
+         /*
+         ajax的对象成员
+         属性：
+         responseText:接收以字符串形式服务器端返回的形象
+         readyState:
+         0 刚创建ajax对象
+         1 已经调用open方法
+         2 已经调用send方法
+         3 已经返回部分数据
+         4 请求已经完成，数据返回完整
+         onreadystatechange:当ajax状态readyState发生变化要触发执行
+         为了获得较多的状态，最好在创建ajax对象后就设置
+         方法：
+         open()创建新的http请求
+         send()把请求发送给服务器端
+          */
+    </script>
+</head>
+<body>
+<input type="button"  value="触发" onclick="f1()">
+<div id='result'>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>talk_windows</title>
+</head>
+<script type="text/javascript">
+            function f1() {
+                getElementsByTagName('form')[0].submit();
+            }
+</script>
+<body>
+    <form action="1.php" method="post">
+        title:<input type="text" name="title"><br>
+        textarea:<textarea cols="30" rows="10" name="content"></textarea><br>
+        user_name:<input type="text" name="user_name"><br>
+        <button id='bt' onclick="f1()">submit</button>
+    </form>
+
+
+</body>
+</html>

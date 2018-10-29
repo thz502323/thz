@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>demo</title>
+    <script type="text/javascript">
+         function weather(){
+            //js后期处理
+            var xhr=new XMLHttpRequest();
+            xhr.onreadystatechange = function(){
+                if(xhr.readyState==4){
+                    eval("var jn_info="+xhr.responseText);
+                    /* //在js中把string变成对象object
+                    var cat="{name:'kit',age:5}";
+                    eval( "var obj="+cat);//eval("var obj={name:'kit',age:5}") eval()把字符串当做表达式处理*/
+
+                    console.log(jn_info.w);
+                    console.log(jn_info.s);
+                    console.log(jn_info.a);
+                }
+            }
+            xhr.open('get','./1.php');
+            xhr.send(null);
+
+            window.onload =function(){
+                weather();//页面加载完成后执行weather方法
+                setInterval("weather()",1000);//每隔1秒执行一次weather():制作轮询(推技术)
+            }
+         }
+    </script>
+</head>
+<body>
+<h2>接收/处理json信息</h2>
+<input type="button" value="天气" onclick="weather()"/>
+</body>
+</html>

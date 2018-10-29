@@ -1,0 +1,19 @@
+#<IfModule mod_rewrite.c>
+#  Options +FollowSymlinks
+#  RewriteEngine On
+#apache调用PHP模块使用
+#  RewriteCond %{REQUEST_FILENAME} !-d
+#  RewriteCond %{REQUEST_FILENAME} !-f
+#  RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+#  #fast-cgi模式使用
+#  #RewriteRule ^(.*)$ index.php?s=$1[QSA,PT,L]
+#</IfModule>
+
+Options +FollowSymlinks
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+</IfModule>

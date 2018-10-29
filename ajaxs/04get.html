@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Document</title>
+    c
+    <script type="text/javascript">
+         function checkname(){
+           /* var nm=document.getElementById('username').value;
+            //js中对传递的特殊符号进行编码处理同时对中文也会进行编码处理
+            nm =encodeURIComponent(nm);*/
+
+            var nm=document.getElementById('username').value;
+            var info ="name="+nm+"&age=20";
+
+            var xhr= new XMLHttpRequest();
+            //ajax 事件设置，以便接收返回信息
+            xhr.onreadystatechange = function(){
+                if(xhr.readyState==4){
+                    alert(xhr.responseText);
+                }
+            };
+            //ajax对象.open(方式get/post,url地址,[异步true]同步false);
+            xhr.open('post','./04.php');
+            //post方式传递数据是模拟form表单传递数据
+            //form表单的post格式数据是通过xml形式传递给服务器的,需要在open()后调用
+            xhr.setRequestHeader("content-type","application/x-www-form-urlencoded");
+            xhr.send(info);
+         }
+    </script>
+</head>
+<body>
+    <h2>ajax的用户名校验（post方式）</h2>
+    用户名：<input type="text" id='username' placeholder="输入用户名" onblur="checkname()"/> <br>
+    t&nbsp e&nbsp l： <input type="tel" id='usertel'>
+
+</body>
+</html>

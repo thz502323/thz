@@ -1,0 +1,57 @@
+[ 2018-06-01T22:37:52+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T22:45:07+08:00 ] 127.0.0.1 /ajaxs/04.html
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:02:05+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:07:30+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:07:49+08:00 ] 127.0.0.1 /ajaxs/04php?usename=123&password=456&email=132%4011
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:08:09+08:00 ] 127.0.0.1 /ajaxs/04php?usename=123&password=456&email=132%4011
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:08:09+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:08:15+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:09:08+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:09:22+08:00 ] 127.0.0.1 /ajaxs/04php?usename=555&password=23&email=132%4011
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:09:22+08:00 ] 127.0.0.1 /ajaxs/04php?usename=555&password=23&email=132%4011
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:09:22+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:09:26+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:09:50+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:10:25+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-06-01T23:10:26+08:00 ] 127.0.0.1 /ajaxs/5.xml
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:10:28+08:00 ] 127.0.0.1 /ajaxs/5.xml
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:10:29+08:00 ] 127.0.0.1 /ajaxs/5.xml
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-06-01T23:12:56+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+

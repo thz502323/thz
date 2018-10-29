@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <script type="text/javascript">
+
+    window.onload = function() {
+    // setInterval("函数名()",1000);每隔一秒执行一次
+        var fm =document.getElementsByTagName('form')[0];
+        fm.onsubmit = function(evt){
+            //收集表单信息
+            var fd = new FormData(fm);//使用FormData()无需在form标签使用enctype="multipart/form-data"属性
+
+            //ajax传递表单信息到服务器
+            var xhr = new XMLHttpRequest();
+
+            //给ajax设置上传事件
+            xhr.upload.onprogress = function(evt){
+                //通过事件对象感知附件的上传情况
+                console.log(evt)
+                var loaded = evt.loaded;//上传当前大小
+                var total =evt.total;//文件总大小
+                var per = Math.floor((loaded/total)*100)+"%";
+                document.getElementById('son').innerHTML=per;
+                document.getElementById('son').style.width=per;
+            }
+            xhr.onreadystatechange = function(){
+                if(xhr.readyState == 4){
+                    alert(xhr.responseText);
+
+                }
+            }
+            xhr.open('post','./7.php');
+            xhr.send(fd);
+            evt.preventDefault();//阻止浏览器跳转
+        }
+    }
+    </script>
+    <style type="text/css">
+        #pat {width: 440px; height: 15px; border:2px solid blue;}
+        #son {width: 0%; height: 100%; background-color:lightblue;}
+    </style>
+</head>
+<body>
+<h2>无刷新方式附件上传</h2>
+<form action="./7.php">
+    <p>用户名：<input type="text" name="usename" id="usename"/> </p>
+    <p>密 &nbsp 码：<input type="text" name="password"  id="password"/> </p>
+    <div id='pat'>  <div id=son> </div>  </div>
+    <p>头 &nbsp 像：<input type="file" name="file" id="file"/> </p>
+    <input type="submit" name="" value="注册">
+</form>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!-- /**
+ * @Author: thz
+ * @Date:   2018-03-03 13:00:16
+ * @Last Modified by:   thz50
+ * @Last Modified time: 2018-02-19 22:34:57
+ */ -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>天气预报</title>
+    <script type="text/javascript">
+        function f1() {
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function(){
+                if(xhr.readyState==4){
+                   // alert(xhr.responseText);
+                    eval('var jn_info='+xhr.responseText);
+                    var s= '城市:'+jn_info.weatherinfo.city;
+                     s+= '温度:'+jn_info.weatherinfo.temp;
+                     s+= '风向:'+jn_info.weatherinfo.WD;
+                     s+= '时间:'+jn_info.weatherinfo.time;
+                    document.getElementById('re').innerHTML = s;
+                }
+            }
+            xhr.open('get','weather.php');
+            xhr.send(null);
+        }
+    </script>
+</head>
+<body>
+        <h2>天气预报显示</h2>
+        <input type="button" value="获得天气" onclick="f1()"/>
+        <div id='re'></div>
+        <hr>
+        <iframe name="weather_inc" src="http://i.tianqi.com/index.php?c=code&id=2" width="770" height="70" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+    <script type="text/javascript">
+    window.onload=function(){
+        var fm = document.getElementsByTagName('form')[0];
+        fm.onsubmit = function(evt){
+/*            //收集表单信息
+            var nm=document.getElementById("usename").value;
+            var pw=document.getElementById("password").value;
+            var em=document.getElementById("email").value;
+            var info = "name="+nm+"&pwd="+pw+"&email="+em;//请求字符串*/
+            //利用formDATA快速收集表单信息 H5每个表单域都需要name值  不能使用setRequestHeader("content-type","application/x-www-form-urlencoded")无需特殊字段编码
+            var fd= new FormData(fm);//收集fm的表单信息
+
+            //ajax负责把收集好的信息传递给服务端
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function(){
+                if(xhr.readyState == 4){
+                    alert(xhr.responseText);
+                }
+            }
+            xhr.open('post',"04.php");
+           // xhr.setRequestHeader("content-type","application/x-www-form-urlencoded");
+            // xhr.send(info);
+            xhr.send(fd);
+            //阻止浏览器默认动作,跳转等
+            evt.preventDefault();//事件对象阻止
+        }
+    }
+    </script>
+</head>
+<body>
+<h2>无刷新方式收集表单</h2>
+<form action="./04php">
+    <p>用户名：<input type="text" name="usename" id="usename"/> </p>
+    <p>密 &nbsp 码：<input type="text" name="password"  id="password"/> </p>
+    <p>邮 &nbsp 箱：<input type="email" name="email" id="email"/> </p>
+    <input type="submit" name="" value="注册">
+</form>
+
+</body>
+</html>

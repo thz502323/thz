@@ -1,0 +1,6 @@
+[ 2018-04-26T12:24:52+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-04-26T12:50:35+08:00 ] 127.0.0.1 /Public/Admin/css/WdataPicker.css
+ERR: 无法加载模块:Public
+

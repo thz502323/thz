@@ -1,0 +1,1830 @@
+[ 2018-01-15T15:43:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:43:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:44:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:45:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:45:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:45:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:46:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:47:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:48:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:49:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:49:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:50:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:51:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:51:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:51:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:51:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:52:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:53:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:53:29+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2018-01-15T15:53:31+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2018-01-15T15:53:32+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2018-01-15T15:53:40+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2018-01-15T15:53:41+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2018-01-15T15:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:54:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:55:31+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:56:20+08:00 ] 127.0.0.1 /Admin/home.html
+ERR: 无法加载控制器:Home
+
+[ 2018-01-15T15:56:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:56:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:32+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:32+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:32+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:32+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:56:34+08:00 ] 127.0.0.1 /Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:57:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:57:22+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T15:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T15:58:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T15:59:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:00:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:00:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:01:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:02:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:03:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:04:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:05:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:05:04+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T16:05:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:06:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:07:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:08:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:09:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:10:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:10:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:11:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:12:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:14:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:15:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:15:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:16:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:17:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:18:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:19:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:20:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:20:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T16:22:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:23:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:24:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:24:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:25:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:26:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:27:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:28:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:29:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:29:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:30:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:31:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:32:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:33:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:34:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:34:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:35:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:36:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:37:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:38:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:39:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:39:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:40:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:41:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:42:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:43:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:44:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T16:44:19+08:00 ] 127.0.0.1 /Admin/Index/index
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2018-01-15T16:44:34+08:00 ] 127.0.0.1 /Admin/Index/index
+ERR: SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+
+
+[ 2018-01-15T18:10:21+08:00 ] 127.0.0.1 /admin/Index/index
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-01-15T18:10:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:10:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:10:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:10:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:11:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:11:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:11:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:11:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:11:36+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T18:12:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:13:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:14:04+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:14:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:15:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:16:34+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:17:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:17:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:18:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:19:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:19:52+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('管理部','0','10',' 没什么用的部门')
+
+[ 2018-01-15T18:20:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:20:20+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('管理部','0','10','没什么用的部门')
+
+[ 2018-01-15T18:21:04+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:22:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:23:34+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:24:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:25:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:26:04+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:26:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:26:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:26:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:26:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:26:37+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('管理部','0','25','没什么用')
+
+[ 2018-01-15T18:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T18:26:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:27:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:28:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:29:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:30:27+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('管理','0','55',' 没什么用')
+
+[ 2018-01-15T18:30:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:31:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:32:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:33:16+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:33:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T18:34:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:34:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:35:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:36:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:37:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:38:16+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:39:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:39:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:40:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:41:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:41:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:41:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T18:42:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:43:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:44:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:45:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:45:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:46:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:47:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:48:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:49:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:50:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:50:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:51:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:52:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:53:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:54:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:55:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:55:18+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T18:55:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:56:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:57:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:58:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T18:59:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:00:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:00:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:01:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:02:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:03:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:04:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:05:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:05:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:06:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:07:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:08:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:09:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:10:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:10:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:11:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:12:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:13:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:14:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:15:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:15:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:16:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:17:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:18:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:19:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: syntax error, unexpected '，0' (T_STRING), expecting ')'
+
+[ 2018-01-15T19:19:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:19:35+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: Call to a member function select() on null
+
+[ 2018-01-15T19:20:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:20:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:21:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:10+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: Call to a member function select() on null
+
+[ 2018-01-15T19:21:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:21:47+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: Call to a member function select() on null
+
+[ 2018-01-15T19:22:13+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:23:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:23:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:24:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:24:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:24:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:24:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:24:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: Call to a member function select() on null
+
+[ 2018-01-15T19:24:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:25:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:26:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:27:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:28:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:29:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:29:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:30:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:31:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2018-01-15T19:31:37+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2018-01-15T19:32:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:33:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:34:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:35:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:36:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:37:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:38:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:38:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:39:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:40:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:41:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:42:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:43:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:43:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:44:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:45:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:46:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:47:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:48:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:48:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:49:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:50:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:51:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:52:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:53:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:53:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:54:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:55:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:56:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:57:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:57:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:58:49+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T19:59:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:00:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:01:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:03:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:03:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:04:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:05:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:06:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:07:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:08:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:09:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:10:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:11:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:12:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:13:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:13:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:14:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:15:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:16:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:17:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:18:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:19:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:20:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:21:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:22:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:23:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:24:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:25:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:26:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:27:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:28:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:28:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:29:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:30:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:31:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:32:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:33:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:33:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:34:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:35:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:36:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+
+[ 2018-01-15T20:37:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/getCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Email
+

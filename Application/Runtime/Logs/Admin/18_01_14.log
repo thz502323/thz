@@ -1,0 +1,7 @@
+[ 2018-01-14T13:51:18+08:00 ] 127.0.0.1 /Admin/Dept/Test/test9
+ERR: 非法操作:Test
+
+[ 2018-01-14T14:36:30+08:00 ] 127.0.0.1 /Admin/Test/test12
+ERR: 1056:Can't group on 'count'
+ [ SQL语句 ] : SELECT `name`,count(*) as count FROM `sp_dept` GROUP BY count 
+

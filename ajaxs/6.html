@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <script type="text/javascript">
+         function f1(){
+            var xhr =new XMLHttpRequest();
+
+         xhr.open('get','./06.php?'+Math.random());//保证每次请求地址不一样防止缓存php
+         xhr.send(null);
+    }
+
+    </script>
+</head>
+<body>
+<h2>ajax发起对服务器端的请求(缓存处理)</h2>
+<input type="button" value="触发" onclick="f1()"/>
+</body>
+</html>

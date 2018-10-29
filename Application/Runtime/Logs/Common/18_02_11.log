@@ -1,0 +1,24 @@
+[ 2018-02-11T21:33:17+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2018-02-11T21:59:50+08:00 ] 127.0.0.1 /ajaxs/04php?usename=tom&password=tom&email=tom%40123.com
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-02-11T22:00:11+08:00 ] 127.0.0.1 /ajaxs/04php?usename=tom&password=tom&email=tom%40123.com
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-02-11T22:00:32+08:00 ] 127.0.0.1 /ajaxs/04php?usename=tom&password=tom&email=tom%40123.com
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-02-11T22:12:31+08:00 ] 127.0.0.1 /ajaxs/04php?usename=123&password=111&email=tom%40123.com
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-02-11T22:14:17+08:00 ] 127.0.0.1 /ajaxs/04php?usename=222&password=231&email=tom%40123.com
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-02-11T22:16:34+08:00 ] 127.0.0.1 /ajaxs/04php?usename=aaa&password=aa&email=1%401.com
+ERR: 无法加载模块:Ajaxs
+
+[ 2018-02-11T22:19:39+08:00 ] 127.0.0.1 /ajaxs/04php?usename=aaa&password=aa&email=1%401.com
+ERR: 无法加载模块:Ajaxs
+
